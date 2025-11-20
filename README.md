@@ -2,6 +2,8 @@
 
 Bem-vindo ao **Orçamento Pessoal**, uma aplicação web simples e moderna para gerenciar suas despesas diárias. Este projeto foi refatorado para utilizar tecnologias web modernas (HTML5, CSS3, ES6+) e servir como base de estudo para iniciantes.
 
+Link para visualização ao vivo: https://levibarbosa.github.io/orcamento
+
 ## 🚀 Funcionalidades
 
 - **Cadastro de Despesas**: Registre seus gastos informando data, tipo, descrição e valor.
